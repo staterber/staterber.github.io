@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://staterber.github.io/sitemap.html.gz
+Sitemap: https://staterber.github.io/app/sitemap.html.gz
+Sitemap: https://staterber.github.io/assets/sitemap.html.gz
+Sitemap: https://staterber.github.io/css/sitemap.html.gz
+Sitemap: https://staterber.github.io/includes/sitemap.html.gz
+Sitemap: https://staterber.github.io/item/sitemap.html.gz
+Sitemap: https://staterber.github.io/src/sitemap.html.gz
